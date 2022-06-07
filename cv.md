@@ -1,7 +1,11 @@
-#Aleksey Meyman (@MeyManBro)
-
-##My name Aleksey. I am a beginner web developer
-
+# Aleksey Meyman (@MeyManBro)
+*********
+## Junior Frontend Developer
+*********
+### My contacts:
+E-mail: Alekseymeyman@gmail.com
+Dicord
+*********
 *Topics I have studied*
 * My skills
   * HTML
