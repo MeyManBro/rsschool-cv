@@ -2,4 +2,9 @@
 
 ##My name Aleksey. I am a beginner web developer
 
-## My skills:
+*Topics I have studied*
+* My skills
+  * HTML
+  * CSS
+  * GIT
+  * JavaScript
