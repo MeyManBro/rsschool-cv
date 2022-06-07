@@ -1,2 +1,1 @@
-# rsschool-cv
-MeyManBro repository 
+https://MeyManBro.github.io/rsschool-cv/cv
