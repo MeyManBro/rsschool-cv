@@ -4,7 +4,8 @@
 *********
 ### My contacts:
 E-mail: Alekseymeyman@gmail.com
-Dicord
+Dicord server RS-School: Aleksey MeyMan(@MeyManBro)
+
 *********
 *Topics I have studied*
 * My skills
