@@ -23,7 +23,7 @@ Hello to everyone who visited my CV)) I work as an engineer in an energy company
 *********
 
 ##Code Examples
-`
+```
 function bmi(weight, height) {
 
   const bmi = weight/(height*height);
@@ -31,4 +31,4 @@ function bmi(weight, height) {
   return bmi <= 18.5 ? 'Underweight': bmi <= 25 ? 'Normal': bmi <= 30 ? 'Overweight': 'Obese';
 }
 
-`
+```
