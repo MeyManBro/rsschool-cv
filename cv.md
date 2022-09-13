@@ -3,13 +3,13 @@
   My name is Aleksey. I have been programming for more than **3 months ))**
   Support me with likes and hearts so that I don't quit my development.
 
-## *If you are a beginner developer, I advise you to start with [RSS-School](https://rs.school/)*
+## :point_up: *If you are a beginner developer, I advise you to start with :boom: [RSS-School](https://rs.school/)*
 --------------
 ## My contacts:
 * **E-mail:** alekseymeyman@gmail.com
 * **Phone:** +7-960-202-48-85
 * **GitHub:** MeyManBro
-### Something about my skills:
+### :runner: Something about my skills:
 - HTML5, CSS3
 - JavaScript Basics
 - Use at work programs:
@@ -19,7 +19,7 @@
   + Figma
 - VS Code
 
-### Code Example
+### :computer: Code Example
 ```
 (function () {
 
