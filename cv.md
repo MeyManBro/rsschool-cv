@@ -18,3 +18,21 @@
   + InDesign
   + Figma
 - VS Code
+
+### Code Example
+```
+(function () {
+
+"use strict";
+
+let alert;  //  added this in to fix
+
+  function initialize_page()
+    {
+    alert ("hi");
+    }
+
+addEventListener('load', initialize_page);
+
+})();
+```
