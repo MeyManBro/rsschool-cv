@@ -6,7 +6,7 @@
 ## *If you are a beginner developer, I advise you to start with [RSS-School](https://rs.school/)*
 --------------
 ## My contacts:
-* **E-mail:** aleksemeyaman@gmail.com
+* **E-mail:** alekseymeyman@gmail.com
 * **Phone:** +7-960-202-48-85
 * **GitHub:** MeyManBro
 ### Something about my skills:
@@ -36,3 +36,8 @@ addEventListener('load', initialize_page);
 
 })();
 ```
+
+> Those who cannot change their minds cannot change anything.
+
+
+![](https://i.gifer.com/3otv.gif)
