@@ -4,7 +4,11 @@
   Support me with likes and hearts so that I don't quit my development.
 
 ## *If you are a beginner developer, I advise you to start with RSS-School*
-
+--------------
+## My contacts:
+* **E-mail:** aleksemeyaman@gmail.com
+* **Phone:** +7-960-202-48-85
+* **GitHub:** MeyManBro
 ### Something about my skills:
 - HTML5, CSS3
 - JavaScript Basics
