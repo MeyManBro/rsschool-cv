@@ -1,1 +1,1 @@
-# rsschool-cv
+https://MeyManBro.github.io/rsschool-cv/cv
